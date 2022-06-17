@@ -2,7 +2,7 @@
 
 
 ### Courses & tutorials
-- **[Advanced Mathematics for Engineers](https://github.com/nicoguaro/AdvancedMath)** This is a repository with material for the course Advanced Mathematics for Engineers. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/AdvancedMath">
+- **[Advanced Mathematics for Engineers](https://github.com/nicoguaro/AdvancedMath)** This is a repository with material for the course Advanced Mathematics for Engineers. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/AdvancedMath?style=flat-square">
 
 
 ### Science
