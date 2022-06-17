@@ -7,4 +7,8 @@
 
 ### Science
 
-- <a href="https://doi.org/10.1016/j.wavemoti.2021.102809"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.wavemoti.2021.102809-black" align="right"/></a> Variational principles and finite element Bloch analysis in couple stress elastodynamics (2021)
+- <a href="https://arxiv.org/abs/2109.09893"><img src="https://img.shields.io/badge/arxiv-2109.09893-black" align="right"/></a> Analysis of the directionality on periodic materials.
+
+- <a href="https://doi.org/10.1016/j.wavemoti.2021.102809"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.wavemoti.2021.102809-black" align="right"/></a> Variational principles and finite element Bloch analysis in couple stress elastodynamics (2021).
+
+
