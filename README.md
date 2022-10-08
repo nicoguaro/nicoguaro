@@ -1,12 +1,30 @@
 <p><pre align="center"><strong>Nicolas Guarín-Zapata /</strong> <a href="https://nicoguaro.github.io">Homepage</a> / <a href="https://twitter.com/nicoguaro">Twitter</a> / <a href="https://github.com/nicoguaro">GitHub</a> / <a href="https://gist.github.com/nicoguaro">Gist</a> / <a href="https://scicomp.stackexchange.com/users/9667/nicoguaro">Computational Science Exchange</a> / <a href="https://speakerdeck.com/nicoguaro">Speakerdeck</a></pre></p>
 
+PhD. in Computational Engineering with interest and experience in simulation-based engineering, numerical methods, biomimetics, mechanics of solids, design of materials, and wave propagation.
 
 ### Courses & tutorials
 - **[Advanced Mathematics for Engineers](https://github.com/nicoguaro/AdvancedMath)** This is a repository with material for the course Advanced Mathematics for Engineers. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/AdvancedMath?style=flat-square">
 
+- **[Computational Modeling](https://github.com/AppliedMechanics-EAFIT/modelacion_computacional)** This is a repository with material for the course Computational Modeling (in Spanish). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/modelacion_computacional?style=flat-square">
+
+- **[Continuum Mechanics](https://github.com/AppliedMechanics-EAFIT/medios_continuos)** This is a repository with material for the course Continuum Mechanics (in Spanish). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/medios_continuos?style=flat-square">
+
+- **[Introduction to the Finite Element Method](https://github.com/AppliedMechanics-EAFIT/Introductory-Finite-Elements)** This is a repository with material for the course Introduction to the Finite Element Method. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/Introductory-Finite-Elements?style=flat-square">
+
+- **[Finite Element Method Lecture Notes](https://github.com/AppliedMechanics-EAFIT/FEM-Notes)** This is a repository with lecture notes for the course Introduction to the Finite Element Method. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/FEM-Notes?style=flat-square">
+
 - **[Numerical Methods for PDEs](https://github.com/nicoguaro/metodos_numericos_pde)** This is a repository with material for the course Numerical Methods for PDE. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/metodos_numericos_pde?style=flat-square">
 
 - **[Tutorial on Scientific Visualization](https://github.com/nicoguaro/scivis_tutorial_pycon2019)** Given in PyCon Colombia 2019 <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/scivis_tutorial_pycon2019?style=flat-square">
+
+### Development
+
+- **[continuum_mechanics](https://github.com/nicoguaro/continuum_mechanics)**. Utilities for doing calculations in continuum mechanics. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/continuum_mechanics?style=flat-square">
+
+- **[Pyrobo](https://github.com/nicoguaro/pyrobo)** contains phrases from the Colombian film La Vendedora de Rosas by Víctor Gaviria <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/pyrobo?style=flat-square">
+
+- **[SolidsPy](https://github.com/AppliedMechanics-EAFIT/SolidsPy)**. A simple finite element analysis code for 2D elasticity problems <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/SolidsPy?style=flat-square">
+
 
 ### Science
 
