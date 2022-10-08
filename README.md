@@ -11,8 +11,6 @@ PhD. in Computational Engineering with interest and experience in simulation-bas
 
 - **[Introduction to the Finite Element Method](https://github.com/AppliedMechanics-EAFIT/Introductory-Finite-Elements)** This is a repository with material for the course Introduction to the Finite Element Method. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/Introductory-Finite-Elements?style=flat-square">
 
-- **[Finite Element Method Lecture Notes](https://github.com/AppliedMechanics-EAFIT/FEM-Notes)** This is a repository with lecture notes for the course Introduction to the Finite Element Method. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/FEM-Notes?style=flat-square">
-
 - **[Numerical Methods for PDEs](https://github.com/nicoguaro/metodos_numericos_pde)** This is a repository with material for the course Numerical Methods for PDE. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/metodos_numericos_pde?style=flat-square">
 
 - **[Tutorial on Scientific Visualization](https://github.com/nicoguaro/scivis_tutorial_pycon2019)** Given in PyCon Colombia 2019 <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/scivis_tutorial_pycon2019?style=flat-square">
@@ -37,3 +35,8 @@ PhD. in Computational Engineering with interest and experience in simulation-bas
 - <a href="https://doi.org/10.1038/s41563-020-0768-7"><img src="https://img.shields.io/badge/DOI-10.1038%2Fs41563--020--0768--7-black" align="right"/></a> A natural impact-resistant bicontinuous composite nanoparticle coating (2020).
 
 - <a href="https://doi.org/10.1016/j.wavemoti.2019.102406"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.wavemoti.2019.102406-black" align="right"/></a> Finite element modeling of micropolar-based phononic crystals (2020).
+
+- <a href="https://doi.org/10.1142/S2591728519500051"><img src="https://img.shields.io/badge/DOI-10.1142%2FS2591728519500051-black" align="right"/></a> A General-Purpose Element-Based Approach to Compute Dispersion Relations in Periodic Materials with Existing Finite Element Codes (2019).
+
+- <a href="https://doi.org/10.1016/j.jmps.2019.07.003"><img src="https://img.shields.io/badge/DOI-10.1142%2F10.1016%2Fj.jmps.2019.07.003-black" align="right"/></a> Bandgap tuning in bioinspired helicoidal composites (2019).
+
