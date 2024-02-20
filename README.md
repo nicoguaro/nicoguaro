@@ -26,7 +26,8 @@ PhD. in Computational Engineering with interest and experience in simulation-bas
 
 ### Science
 
-- <a href="https://arxiv.org/abs/2109.09893"><img src="https://img.shields.io/badge/arxiv-2109.09893-black" align="right"/></a> Analysis of the directionality on periodic materials (2022).
+- <a href="https://doi.org/10.1080/15376494.2023.2226958"><img src="https://img.shields.io/badge/DOI-10.1080/15376494.2023.2226958-black" align="right"/></a> Analysis of the directionality on periodic materials (2023).
+
 
 - <a href="https://doi.org/10.1016/j.wavemoti.2021.102809"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.wavemoti.2021.102809-black" align="right"/></a> Variational principles and finite element Bloch analysis in couple stress elastodynamics (2021).
 
