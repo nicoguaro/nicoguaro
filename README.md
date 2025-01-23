@@ -3,11 +3,14 @@
 PhD. in Computational Engineering with interest and experience in simulation-based engineering, numerical methods, biomimetics, mechanics of solids, design of materials, and wave propagation.
 
 ### Courses & tutorials
+
 - **[Advanced Mathematics for Engineers](https://github.com/nicoguaro/AdvancedMath)** This is a repository with material for the course Advanced Mathematics for Engineers. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/AdvancedMath?style=flat-square">
 
 - **[Computational Modeling](https://github.com/AppliedMechanics-EAFIT/modelacion_computacional)** This is a repository with material for the course Computational Modeling (in Spanish). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/modelacion_computacional?style=flat-square">
 
 - **[Continuum Mechanics](https://github.com/AppliedMechanics-EAFIT/medios_continuos)** This is a repository with material for the course Continuum Mechanics (in Spanish). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/medios_continuos?style=flat-square">
+
+- **[Introducción a las redes neuronales informadas por la física](https://github.com/nicoguaro/pinns_mapi-3).** This is a repository with the material for the minicourse on Physics-Informed Neural Networkss (PINNs) in the third Colombian Conference on Applied and Industrial Mathematics (MAPI-3). <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/nicoguaro/pinns_mapi-3?style=flat-square">
 
 - **[Introduction to the Finite Element Method](https://github.com/AppliedMechanics-EAFIT/Introductory-Finite-Elements)** This is a repository with material for the course Introduction to the Finite Element Method. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/Introductory-Finite-Elements?style=flat-square">
 
@@ -24,10 +27,13 @@ PhD. in Computational Engineering with interest and experience in simulation-bas
 - **[SolidsPy](https://github.com/AppliedMechanics-EAFIT/SolidsPy)**. A simple finite element analysis code for 2D elasticity problems <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AppliedMechanics-EAFIT/SolidsPy?style=flat-square">
 
 
-### Science
+### Research
+
+- <a href="https://doi.org/10.48550/arXiv.2501.08954"><img src="https://img.shields.io/badge/DOI-10.48550/arXiv.2501.08954-black" align="right"/></a> Implicit Time-Marching for Lagrange Multiplier Formulation for Couple Stress Elastodynamics (2025).
+
+- <a href="https://doi.org/10.1002/adfm.202417291"><img src="https://img.shields.io/badge/DOI-10.1002/adfm.202417291-black" align="right"/></a> Bioinspired SiC/Chitosan Impact Resistant Coatings (2024).
 
 - <a href="https://doi.org/10.1080/15376494.2023.2226958"><img src="https://img.shields.io/badge/DOI-10.1080/15376494.2023.2226958-black" align="right"/></a> Analysis of the directionality on periodic materials (2023).
-
 
 - <a href="https://doi.org/10.1016/j.wavemoti.2021.102809"><img src="https://img.shields.io/badge/DOI-10.1016%2Fj.wavemoti.2021.102809-black" align="right"/></a> Variational principles and finite element Bloch analysis in couple stress elastodynamics (2021).
 
