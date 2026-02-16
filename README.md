@@ -29,6 +29,14 @@ PhD. in Computational Engineering with interest and experience in simulation-bas
 
 ### Research
 
+- <a href="https://doi.org/10.48550/arXiv.2512.12074"><img src="https://img.shields.io/badge/DOI-10.48550/arXiv.2512.12074-black" align="right"/></a> Physics-informed neural networks to solve inverse problems in unbounded domains (2026).
+
+- <a href="https://doi.org/10.48550/arXiv.2509.12483"><img src="https://img.shields.io/badge/DOI-10.48550/arXiv.2509.12483-black" align="right"/></a> Comparative Analysis of Wave Scattering Numerical Modeling Using the Boundary Element Method and Physics-Informed Neural Networks (2026).
+
+- <a href="https://doi.org/10.48550/arXiv.2507.19648"><img src="https://img.shields.io/badge/DOI-10.48550/arXiv.2507.19648-black" align="right"/></a> Decoding street network morphologies and their correlation to travel mode choice (2025).
+
+- <a href="https://doi.org/10.48550/arXiv.2501.08954"><img src="https://img.shields.io/badge/DOI-10.48550/arXiv.2501.08954-black" align="right"/></a> Implicit Time-Marching for Lagrange Multiplier Formulation for Couple Stress Elastodynamics (2025).
+
 - <a href="https://doi.org/10.48550/arXiv.2501.08954"><img src="https://img.shields.io/badge/DOI-10.48550/arXiv.2501.08954-black" align="right"/></a> Implicit Time-Marching for Lagrange Multiplier Formulation for Couple Stress Elastodynamics (2025).
 
 - <a href="https://doi.org/10.1002/adfm.202417291"><img src="https://img.shields.io/badge/DOI-10.1002/adfm.202417291-black" align="right"/></a> Bioinspired SiC/Chitosan Impact Resistant Coatings (2024).
